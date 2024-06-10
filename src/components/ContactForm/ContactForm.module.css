@@ -1,0 +1,28 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin-bottom: 20px;
+}
+
+.searchBox {
+display:flex;
+flex-direction: column;
+gap: 20px;
+border: 1px solid #0a0000;
+    border-radius: 5px;
+}
+.submitBtn {
+width: 80px;
+}
+.error {
+    color: red;
+}
+.inputGroup {
+    display: flex;
+    flex-direction: column;
+
+}
+.label {
+    margin-bottom: 5px;
+}

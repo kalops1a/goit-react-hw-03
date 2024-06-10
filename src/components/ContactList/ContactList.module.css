@@ -1,0 +1,15 @@
+.list {
+    list-style: none;
+    padding: 0;
+}
+
+.listItem {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.listItemButton {
+    margin-left: 10px;
+}
